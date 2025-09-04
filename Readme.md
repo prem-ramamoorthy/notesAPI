@@ -3,7 +3,7 @@
 A simple REST API for managing notes built with FastAPI. This API allows you to create, read, update, and delete notes with automatic timestamps and proper error handling.
 
 # Live Link
-    https://notesapi-1-s22g.onrender.com
+https://notesapi-1-s22g.onrender.com
 
 ## Features
 
